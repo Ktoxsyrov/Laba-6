@@ -1,0 +1,13 @@
+D:\Лабы 3 сем\laba6\bin\Debug\netcoreapp3.1\laba6.exe
+D:\Лабы 3 сем\laba6\bin\Debug\netcoreapp3.1\laba6.deps.json
+D:\Лабы 3 сем\laba6\bin\Debug\netcoreapp3.1\laba6.runtimeconfig.json
+D:\Лабы 3 сем\laba6\bin\Debug\netcoreapp3.1\laba6.runtimeconfig.dev.json
+D:\Лабы 3 сем\laba6\bin\Debug\netcoreapp3.1\laba6.dll
+D:\Лабы 3 сем\laba6\bin\Debug\netcoreapp3.1\laba6.pdb
+D:\Лабы 3 сем\laba6\obj\Debug\netcoreapp3.1\laba6.csprojAssemblyReference.cache
+D:\Лабы 3 сем\laba6\obj\Debug\netcoreapp3.1\laba6.AssemblyInfoInputs.cache
+D:\Лабы 3 сем\laba6\obj\Debug\netcoreapp3.1\laba6.AssemblyInfo.cs
+D:\Лабы 3 сем\laba6\obj\Debug\netcoreapp3.1\laba6.csproj.CoreCompileInputs.cache
+D:\Лабы 3 сем\laba6\obj\Debug\netcoreapp3.1\laba6.dll
+D:\Лабы 3 сем\laba6\obj\Debug\netcoreapp3.1\laba6.pdb
+D:\Лабы 3 сем\laba6\obj\Debug\netcoreapp3.1\laba6.genruntimeconfig.cache
